@@ -12,7 +12,7 @@ bool isMultiple(const long n, const long m) {
     }
 }
 
-bool shorterIsMultiple(const long n, long m) {
+bool shorterIsMultiple(const long n, const long m) {
     return n % m == 0;
 }
 

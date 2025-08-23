@@ -1,3 +1,2 @@
-CMakeLists.txt
-.clang-format
+target/
 .idea/
